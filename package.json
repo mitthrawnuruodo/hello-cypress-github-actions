@@ -1,0 +1,23 @@
+{
+  "name": "hello-cypress-github-actions",
+  "version": "1.0.0",
+  "description": "Based on: [How to setup Cypress on Github Actions](https://dev.to/rodrigosta/how-to-setup-cypress-on-github-actions-45b6)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mitthrawnuruodo/hello-cypress-github-actions.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mitthrawnuruodo/hello-cypress-github-actions/issues"
+  },
+  "homepage": "https://github.com/mitthrawnuruodo/hello-cypress-github-actions#readme",
+  "devDependencies": {
+    "cypress": "^10.11.0"
+  }
+}
